@@ -3,7 +3,7 @@
 Canvas Grabber is a Python command-line tool for downloading course content from Instructure Canvas.  
 It allows you to select a course, choose modules, and download all available files (including those inside pages and assignments) into organized folders on your computer.
 
-![Demo GIF]([Canvas-Grabber/usage.gif](https://github.com/Jeter361/Canvas-Grabber/blob/main/usage.gif)
+![Canvas-Grabber/usage.gif](https://github.com/Jeter361/Canvas-Grabber/blob/main/usage.gif)
 
 ---
 
